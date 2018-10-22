@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Markdown Study"
-img: 
+img: octocat.jpg
 date:   2018-10-23 18:00:00 +0800
 description: Markdown's grammar learning.
 ---
