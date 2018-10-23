@@ -1,16 +1,16 @@
 # Profile information
 name: Kirito
 title: Kirito小基地
-description: 这是一段描述
+description: Kirito的个人网站
 permalink: ':title/'
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://kiritokun07.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
-# Social
+# Social社交账号
 facebook: #Add your Facebook
 twitter: #Add your Twitter
-weibo: 3937206970
-github: kiritokun07
+weibo: u/3937206970     # 微博
+github: kiritokun07     # github主页
 
 # Contact form
 email: #your-email@domain.com
@@ -19,11 +19,11 @@ email: #your-email@domain.com
 discus-identifier: # Add your Disqus identifier
 
 # Paginate
-paginate: 5
+paginate: 5     # 每页显示多少文章
 paginate_path: /page:num/
 
 # Build settings
-markdown: kramdown
+markdown: kramdown  # 解析器
 gems:
   - jekyll-feed
   - jekyll-paginate
