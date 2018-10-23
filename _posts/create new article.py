@@ -1,0 +1,20 @@
+time=input("please input time(like 2018-01-01) ")
+title1=input("please input title ")
+name=str(time)+"-"+title1.lower()
+
+print("---")
+print("layout: post")
+print('title:  "'+title1.title()+'"')
+print("img: ")
+print("date:   ")
+print("description: ")
+print("---\n")
+filename=name+'.markdown'
+with open(filename,'w') as file_object:
+    file_object.write("---\n")
+    file_object.write("layout: post\n")
+    file_object.write('title:  "'+title1.title()+'"\n')
+    file_object.write("img: "+"\n")
+    file_object.write("date:   "+"\n")
+    file_object.write("description: "+"\n")
+    file_object.write("---\n\n")
