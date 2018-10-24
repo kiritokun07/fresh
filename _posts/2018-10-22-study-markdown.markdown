@@ -35,7 +35,7 @@ description: Markdown's grammar learning.
 
 # ④ 图片与链接
 #### 图片
-![sofi](https://kiritokun07.github.io/assets/img/favicon/favicon.ico)
+![sofi](https://ws1.sinaimg.cn/large/eaad02bagy1fwjpcsw24bj2060065q3r.jpg)
 
 #### 链接
 [Github](https://github.com)
