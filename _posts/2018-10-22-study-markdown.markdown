@@ -6,7 +6,7 @@ date:   2018-10-22 18:00:00 +0800
 description: Markdown's grammar learning.
 ---
 
-[markdown学习参考](https://www.jianshu.com/p/1e402922ee32)
+markdown学习参考:[Markdown——入门指南](https://www.jianshu.com/p/1e402922ee32)
 
 # ① 标题
 # 一级标题
