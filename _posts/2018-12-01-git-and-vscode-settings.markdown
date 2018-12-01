@@ -2,7 +2,7 @@
 layout: post
 title:  "Git and Vscode settings"
 img: bengbengbeng.jpg
-date:   2018-12-01 22:30 +0800
+date:   2018-12-01 22:30:00 +0800
 description: 【git】设置初始工作路径以及在vscode的配置
 ---
 
