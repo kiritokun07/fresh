@@ -1,3 +1,4 @@
+# 安装好python3设置好环境后，可直接双击此脚本打开
 import time,datetime
 
 datetime0=datetime.datetime.now()
