@@ -7,6 +7,10 @@ description: python学习参考收录
 ---
 
 ## python学习参考收录
+[Jekyll中使用MathJax](http://pkuwwt.github.io/linux/2013-12-03-jekyll-using-mathjax/)
+<br>
+[常用数学符号的 LaTeX 表示方法](http://www.mohu.org/info/symbols/symbols.htm)
+<br>
 [经典排序算法总结与实现（python版）](https://bigquant.com/community/t/topic/128778)
 <br>
 [梯度下降算法的Python实现](https://bigquant.com/community/t/topic/128341)
