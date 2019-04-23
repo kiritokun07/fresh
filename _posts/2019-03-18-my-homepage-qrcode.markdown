@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "My-Homepage-Qrcode"
+title:  "My homepage qrcode"
 img: 
 date:   2019-03-18 13:36:32 +0800
 description: 

@@ -6,7 +6,7 @@ datetime1=datetime0.strftime('%Y-%m-%d')
 datetime2=datetime0.strftime('%Y-%m-%d %H:%M:%S')
 
 
-title1=input("please input title: ")
+title1=input("please input title(文件名不支持中文): ")
 title2=title1.split()
 title3=('-'.join(title2))
 name=str(datetime1)+"-"+title3.lower()
